@@ -1,0 +1,35 @@
+:root{
+    --black: #141204;
+    --veige: #DBCDC6;
+}
+body{
+    background-color: var(--black);
+    color: var(--veige);
+}
+
+.title{
+    margin-left: 35%;
+}
+
+.tarjeta{
+    background-color: var(--veige);
+    width: 40%;
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 32%;
+}
+
+
+form button{
+    margin-left: 5px;
+}
+
+form select{
+    height: 30px;
+}
+
+.resultado{
+    color: black;
+}
+
